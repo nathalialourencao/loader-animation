@@ -1,0 +1,15 @@
+{
+  "name": "LoaderAnimation",
+  "description": "Loader Animation CSS",
+  "author": "Nathália Lourenção (http://nathalialourencao.com/)",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "latest"
+  }
+}
