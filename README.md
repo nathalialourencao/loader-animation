@@ -1,3 +1,2 @@
 Loader Animation com CSS
 ========================
-
